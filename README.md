@@ -57,5 +57,5 @@ java -cp .:junit-platform-console-standalone-1.8.1.jar org.junit.platform.consol
 ### Sample Output:
 
 ```
-Total cost of the shopping basket: 210p
+Total cost of the shopping basket: 110p
 ```
