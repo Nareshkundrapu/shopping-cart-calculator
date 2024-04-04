@@ -59,6 +59,3 @@ java -cp .:junit-platform-console-standalone-1.8.1.jar org.junit.platform.consol
 ```
 Total cost of the shopping basket: 210p
 ```
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-This project is licensed under the MIT License - see the LICENSE.md file for details.
